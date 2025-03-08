@@ -20,7 +20,7 @@ config :shop, ShopWeb.Endpoint,
     layout: false
   ],
   pubsub_server: Shop.PubSub,
-  live_view: [signing_salt: "jcsqHufX"]
+  live_view: [signing_salt: "sy92ItpZ"]
 
 # Configures the mailer
 #

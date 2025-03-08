@@ -14,7 +14,7 @@ config :shop, Shop.Repo,
 # you can enable the server option below.
 config :shop, ShopWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "5fvfnAgr524rArdVT0Ywu0vZjA45sofLdh5dD3Fcvcemt1TQYAJ1b5//eF+6uBCH",
+  secret_key_base: "rP3CAAz8TiklrgRuQJQTmu3BH6eLc0ANYvQ8xrvx801j6dqqTuHmwleMRSOqoX9x",
   server: false
 
 # In test we don't send emails

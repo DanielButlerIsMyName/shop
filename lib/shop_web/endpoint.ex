@@ -7,7 +7,7 @@ defmodule ShopWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_shop_key",
-    signing_salt: "Hmi4BEHU",
+    signing_salt: "u35GnL5M",
     same_site: "Lax"
   ]
 
